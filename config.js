@@ -1,5 +1,5 @@
 /** 更多样式 http://developer.baidu.com/map/custom/list.htm */
-var MAP_STYLE = "hardedge";
+var MAP_STYLE = "grayscale";
 
 var DATA = {
 	"澳门" : {
