@@ -164,13 +164,13 @@ function createMarker (geo, map, city, university, c_names, u_names) {
 		}
 	}
 
-	if (SPEC_POS[university]) {
-		var p = SPEC_POS[university];
+// 	if (SPEC_POS[university]) {
+// 		var p = SPEC_POS[university];
 
-		create(new BMap.Point(p[0], p[1]));
-	} else {
-		geo.getPoint(university, create, city);
-	}
+// 		create(new BMap.Point(p[0], p[1]));
+// 	} else {
+// 		geo.getPoint(university, create, city);
+// 	}
 }
 
 function hideOverlayMarkers (map) {
