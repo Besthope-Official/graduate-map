@@ -4,4 +4,4 @@
 
 如果你和我一样, 有创建毕业去向网站的需要, 可以查看上面提到的项目.
 
->! This is not a TOOL but a demonstration. !
+
